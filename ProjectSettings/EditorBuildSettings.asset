@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/InteractingWithBrowserScripts/Demo.unity
+    guid: 67e7b73f6d0f6a6429c71590cfa9e43b
   m_configObjects: {}

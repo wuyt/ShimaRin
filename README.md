@@ -9,7 +9,8 @@
 
 - WebImagesLoading：显示网络图片
 - WebVideosLoading：显示网络视频
+- InteractingWithBrowserScripts：Unity和浏览器脚本交互
 
 ----------
 
-2019年11月8日
+2019年11月29日
